@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>portfolio</title>
+  </head>
+  <body>
+    <header>
+      <h1>My portfolio</h1>
+    </header>
+    <nav>
+      <ul>
+        <li><a href="#home">Home </a></li>
+        <li><a href="#about"> About</a></li>
+        <li><a href="#project">Project</a></li>
+      </ul>
+    </nav>
+    <section>
+      <h2>Home</h2>
+      <p>Welcome to my portfolio website !</p>
+    </section>
+    <section>
+      <h2>About me</h2>
+      <p>I'm a skilled web developer with a passion for creating user-friendly and engaging websites. I have experience working with HTML, CSS, JavaScript, and other web technologies, and I'm always eager to learn new skills and technologies. I'm committed to providing high-quality work that meets or exceeds the expectations of my clients.</p>
+      <p>I enjoy collaborating with others and I am always open to new ideas and perspectives.</p>
+    </section>
+    <section>
+      <h2>Projects</h2>
+      <ul>
+        <li>A simple website with a home page, an about page, and a contact page.</li>
+        <li>A blog with a homepage, an archive of blog posts, an about page, and a contact page.</li>
+        <li>A small web application, such as a to-do list or a weather forcast.</li>
+      </ul>
+    </section>
+  </body>
+</html>
